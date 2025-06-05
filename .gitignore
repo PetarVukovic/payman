@@ -1,0 +1,28 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Env files (osetljive informacije)
+.env
+
+# Log fajlovi
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE fajlovi (npr. VSCode)
+.vscode/
+.idea/
+
+# OS fajlovi
+.DS_Store
+
+# Coverage fajlovi (ako koristiš test coverage)
+coverage/
